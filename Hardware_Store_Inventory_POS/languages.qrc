@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>languages/txteditor_es.qm</file>
+        <file>languages/txteditor_en.qm</file>
+    </qresource>
+</RCC>

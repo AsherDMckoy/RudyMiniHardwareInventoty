@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/104.png</file>
+        <file>images/addCustomer.png</file>
+        <file>images/addItem</file>
+        <file>images/createUser.png</file>
+        <file>images/customers.jpg</file>
+        <file>images/godaddy-hosting.jpg</file>
+        <file>images/online-store.png</file>
+        <file>images/rolesicon.jpg</file>
+        <file>images/suppliericon.jpg</file>
+        <file>images/Suppliers.png</file>
+        <file>images/toolbar</file>
+        <file>images/tools</file>
+        <file>images/staff_login.png</file>
+        <file>images/maximize.png</file>
+        <file>images/minimize.png</file>
+        <file>images/CloseButton.png</file>
+        <file>images/my_profile.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,91 @@
+/* QSS file for style to program 
+	CORONA HARDWARE Asher, David , Nadir, Dane, Jose , Randy aka(melchor)
+*/
+
+QPushButton {
+
+    border: 2px solid;
+    border-radius: 10px;
+	border-color: white #808080 #696969;
+	color: white;
+    background-color: #1d1d1d;
+    min-width: 80px;
+	padding:	4px;
+	margin:	10px
+}
+
+QStackedWidget{
+   background-color: #708090; 
+									  
+	background-image: url("/home/david/Desktop/Object_Oriented_Project/images/logo.png");
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+	background-position: center top;
+}
+
+
+
+QMenuBar{
+	background-color: #FF8C00;
+	padding: 5px;
+	font: 12pt "MS Shell Dlg 2";
+	color: white;
+}
+
+QMenuBar::item{
+	background-color: #FF8C00;
+	padding: 5px;
+	font: 5pt "MS Shell Dlg 2";
+}
+
+
+QMainWindow
+{	
+   background-color: #71c002;
+   background-image: url("/home/david/Desktop/Object_Oriented_Project/images/tools1.png");
+}
+
+QPushButton:hover
+{
+    background-color: #FF8C00;
+}
+
+QStatusBar{
+	background-color:#FF8C00;
+	color: white;
+	font-size: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+QInputDialog{
+
+	padding:	10px;
+	background-color:	#71c002;
+	border: 3px solid #FF8C00;
+	border-radius: 10px;
+}
+
+QMessageBox{
+	
+	background-color:	#71c002;
+	border: 3px solid #FF8C00;
+	color:	#708090;
+}
+
+QLabel{
+	font-size: 16px;
+	color: white;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+QLineEdit
+{
+  border: 1px solid #DAA520;
+  border-radius: 10px;
+  padding:	5px;
+}
+
+//#FF8C00 orange
+//#71c002 green
+//#0000CD blue
+//#708090 gray
